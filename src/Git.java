@@ -2,6 +2,6 @@ package src;
 
 public class Git {
     public static void main(String[] args) {
-        System.out.println("Byy git version 2");
+        System.out.println("Byy git version 3");
     }
 }
